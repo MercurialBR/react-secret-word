@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-secret-word/static/css/main.d66a56b4.css",
+    "main.js": "/react-secret-word/static/js/main.cc850235.js",
+    "static/js/453.5dc9af1b.chunk.js": "/react-secret-word/static/js/453.5dc9af1b.chunk.js",
+    "index.html": "/react-secret-word/index.html",
+    "main.d66a56b4.css.map": "/react-secret-word/static/css/main.d66a56b4.css.map",
+    "main.cc850235.js.map": "/react-secret-word/static/js/main.cc850235.js.map",
+    "453.5dc9af1b.chunk.js.map": "/react-secret-word/static/js/453.5dc9af1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66a56b4.css",
+    "static/js/main.cc850235.js"
+  ]
+}
